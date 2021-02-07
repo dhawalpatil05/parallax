@@ -1,0 +1,36 @@
+div{ height: 700px;
+margin: 0%;
+padding: 0%;
+/* display: flex;
+justify-content: center; 
+align-items: center; */
+}.black 
+{
+    background-color: rgb(241,243,184);
+}.pink
+{
+    background-color: rgb(150,234,183);
+}
+.white{
+
+    margin: 0 auto;
+    padding-top: 350px;
+
+}.grey{
+    background-color: rgb(123,153,250);
+}
+h1{ 
+     display: flex;
+    justify-content: center; 
+    align-items: center;
+    color: bisque;
+    text-align: center;
+    margin: 0%;
+padding: 0%;
+margin-top: 1px;
+}
+p{
+    color:blanchedalmond;
+
+    text-align: center;
+}
